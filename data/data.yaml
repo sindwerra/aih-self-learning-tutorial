@@ -1,0 +1,4 @@
+    train: /Users/duli/Desktop/UT Austin/AIH/homework5/data/train/images
+    val: /Users/duli/Desktop/UT Austin/AIH/homework5/data/val/images
+    nc: 2
+    names: ["without_mask", "with_mask"]
